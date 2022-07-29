@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [DCDC_4805.PrjPcb]
+   Generated File[DCDC_4805.TXT]
+   Generated File[DCDC_4805.LDP]
+   Generated File[DCDC_4805.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 8:55:46 AM On 1/24/2021
